@@ -6,6 +6,7 @@ All the source code is contained in `main.py`. To run it, you'll need Python alo
 
 If you'd like to build an `.exe` file yourself, you will also need the `pyinstaller` package. It is flexible regarding version requirements, so feel free to use whichever version you prefer.
 
-For those who just want to use the tool directly, you can find the pre-built `.exe` file in the Releases section. It requires no installation or additional dependencies.
+📥 **Download Pre-built Executable**
+For those who just want to use the tool directly, you can find the pre-built `.exe` file in the [Releases page](https://github.com/Li-yachuan/TOOLS/releases/tag/v1.1.1). It requires no installation or additional dependencies.
 
 *Note: This project is intended for educational purposes only.*
